@@ -11,8 +11,8 @@ Save the `.sh`, modify the argument's mode with `chmod a+x`
 Usage of this would be:
 
 `./dns-enum.sh <DOMAIN>`
-* Example: ./dns-enum.sh google.com 
-* Example: ./dns-enum.sh yahoo.com 
-* Example: ./dns-enum.sh 8.8.8.8 
+* Example: ./recon.sh google.com 
+* Example: ./recon.sh yahoo.com 
+* Example: ./recon.sh 8.8.8.8 
 
 Full disclosure: You’ll need `nmap` installed to make this work correctly.
