@@ -6,6 +6,7 @@ Gathers the following information, creates directories, and saves them to said d
 * NMAP -A
 
 Save the `.sh`, modify the argument's mode with `chmod a+x`
+(Note: The directories will be created in the same structure, where the `recon.sh`script lives.)
 
 Usage of this would be:
 
