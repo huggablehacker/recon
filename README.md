@@ -6,8 +6,7 @@ Gathers the following information, creates directories, and saves them to said d
 * DNS (Host,MX,NS,A)
 * NMAP -A
 
-Save the .sh
-Modify the argument's mode with chmod a+x
+Save the `.sh`, modify the argument's mode with `chmod a+x`
 
 Usage of this would be:
 
