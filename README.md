@@ -1,5 +1,4 @@
 # Recon Scan
-Huggable's Recon Scan
 
 Gathers the following information, creates directories, and saves them to said directories.
 * Whois
